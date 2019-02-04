@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="500" height="500" viewBox="0, 0, 500, 500">
+  <g id="Layer_1">
+    <g>
+      <path d="M36.5,22.5 L360.5,22.5 L360.5,478.5 L36.5,478.5 z" fill="#0FA9E2"/>
+      <path d="M36.5,22.5 L360.5,22.5 L360.5,478.5 L36.5,478.5 z" fill-opacity="0" stroke="#0FA9E2" stroke-width="30"/>
+    </g>
+    <g>
+      <path d="M288.5,156.5 L464.5,156.5 L464.5,384.5 L192.5,384.5 L192.5,252.5" fill="#F9F4F4"/>
+      <path d="M288.5,156.5 L464.5,156.5 L464.5,384.5 L192.5,384.5 L192.5,252.5" fill-opacity="0" stroke="#525245" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g>
+      <path d="M192.5,252.5 L288.5,156.5 L288.5,252.5 z" fill="#F9F4F4"/>
+      <path d="M192.5,252.5 L288.5,156.5 L288.5,252.5 z" fill-opacity="0" stroke="#525245" stroke-width="30" stroke-linejoin="round"/>
+    </g>
+    <g>
+      <path d="M60.5,48.5 L340.5,48.5 L340.5,72.5 L60.5,72.5 z" fill="#F9F4F4"/>
+      <path d="M60.5,48.5 L340.5,48.5 L340.5,72.5 L60.5,72.5 z" fill-opacity="0" stroke="#F9F4F4" stroke-width="30"/>
+    </g>
+  </g>
+</svg>

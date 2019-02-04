@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="500" height="500" viewBox="0, 0, 500, 500">
+  <g id="horizontal_outline">
+    <path d="M179.789,179.789 L321.211,321.211" fill-opacity="0" stroke="#000000" stroke-width="55" stroke-linecap="round"/>
+    <path d="M373.537,374.951 z" fill-opacity="0" stroke="#29ABE2" stroke-width="40"/>
+    <path d="M150.798,265.349 z" fill-opacity="0" stroke="#000000" stroke-width="4"/>
+    <path d="M321.211,179.789 L179.789,321.211" fill-opacity="0" stroke="#000000" stroke-width="55" stroke-linecap="round"/>
+    <path d="M373.537,374.951 z" fill-opacity="0" stroke="#29ABE2" stroke-width="40"/>
+    <path d="M150.798,265.349 z" fill-opacity="0" stroke="#000000" stroke-width="4"/>
+    <path d="M109.079,391.921 C30.974,313.816 30.974,187.183 109.079,109.079 C187.184,30.974 313.816,30.974 391.921,109.079 C470.026,187.184 470.026,313.816 391.921,391.921 C313.817,470.026 187.184,470.026 109.079,391.921 z" fill-opacity="0" stroke="#000000" stroke-width="55"/>
+    <path d="M373.537,374.951 z" fill-opacity="0" stroke="#29ABE2" stroke-width="40"/>
+    <path d="M150.798,265.349 z" fill-opacity="0" stroke="#000000" stroke-width="4"/>
+    <path d="M321.211,179.789 L179.789,321.211" fill-opacity="0" stroke="#29ABE2" stroke-width="40" stroke-linecap="round"/>
+    <path d="M373.537,374.951 z" fill-opacity="0" stroke="#29ABE2" stroke-width="40"/>
+    <path d="M150.798,265.349 z" fill-opacity="0" stroke="#000000" stroke-width="4"/>
+    <path d="M179.789,179.789 L321.211,321.211" fill-opacity="0" stroke="#29ABE2" stroke-width="40" stroke-linecap="round"/>
+    <path d="M373.537,374.951 z" fill-opacity="0" stroke="#29ABE2" stroke-width="40"/>
+    <path d="M150.798,265.349 z" fill-opacity="0" stroke="#000000" stroke-width="4"/>
+    <path d="M109.079,391.921 C30.974,313.816 30.974,187.183 109.079,109.079 C187.184,30.974 313.816,30.974 391.921,109.079 C470.026,187.184 470.026,313.816 391.921,391.921 C313.817,470.026 187.184,470.026 109.079,391.921 z" fill-opacity="0" stroke="#29ABE2" stroke-width="40"/>
+    <path d="M373.537,374.951 z" fill-opacity="0" stroke="#29ABE2" stroke-width="40"/>
+    <path d="M150.798,265.349 z" fill-opacity="0" stroke="#000000" stroke-width="4"/>
+  </g>
+</svg>
