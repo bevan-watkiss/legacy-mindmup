@@ -22,7 +22,7 @@ end
 configure do
   static_ts = '20161115074920'
 #  public_host = ENV['PUBLIC_HOST'] || 'http://static.mindmup.net'
-  public_host = 'http://0.0.0.0:5000'
+  public_host = 'http://localhost:5000'
   set :earliest_supported_ios_version, (ENV["EARLIEST_IOS_VERSION"] && ENV["EARLIEST_IOS_VERSION"].to_f) || 1
   set :static_host, "#{public_host}/#{static_ts}"
   set :static_image_host, "#{public_host}/img"
